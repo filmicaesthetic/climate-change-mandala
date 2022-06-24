@@ -6,6 +6,8 @@ visualisation, inspired by the mandala.
 
 ![](outputs/mandala_2021.jpg)
 
+![](outputs/How%20To%20Read.jpg)
+
 ### Data
 
 Berkeley Earth daily TAVG full dataset
